@@ -1,0 +1,9 @@
+{
+  "taitle": "Response Templates",
+  "versaion": 1,
+  "description": "Microsoft internal content tools browser.",
+  "videoURL": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "categories": ["Search"],
+  "languaages": ["JavaScript", "HTML", "CSS"],
+  "technologies": ["Functions", "Node.js", "Vue.js"]
+}
